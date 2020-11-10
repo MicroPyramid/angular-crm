@@ -1,0 +1,18 @@
+h2 {
+    text-align: center;
+}
+
+.toolbar {
+    height: 60px;
+    align-items: center;
+    background-color: #9ac6f3;
+    color: white;
+    font-weight: 600;
+  }
+
+span {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
